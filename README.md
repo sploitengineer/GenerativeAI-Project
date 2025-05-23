@@ -71,7 +71,7 @@ streamlit run Q&A_bot.py
 
 <details>
   <summary>📸 Screenshot</summary>
-  ![App Screenshot](Screenshots\Q&A.png)
+  ![App Screenshot](Screenshots/Q&A.png)
 </details>
 
 ### 2. Conversational Chatbot
@@ -85,7 +85,7 @@ streamlit run chatbot_con.py
 
 <details>
   <summary>📸 Screenshot</summary>
-  ![Chat Screenshot](Screenshots\Conversation_bot.png)
+  ![Chat Screenshot](Screenshots/Conversation_bot.png)
 </details>
 
 ---
