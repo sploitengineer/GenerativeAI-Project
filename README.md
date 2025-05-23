@@ -1,5 +1,3 @@
-# GenerativeAI-Project
-
 # Document Q\&A & Conversational Chatbot Repository
 
 > Two Streamlit apps leveraging LangChain and Ollama to demonstrate Retrieval‑Augmented Generation (RAG) for document Q\&A and a conversational chatbot.
@@ -73,7 +71,7 @@ streamlit run Q&A_bot.py
 
 <details>
   <summary>📸 Screenshot</summary>
-  ![App Screenshot](Q&A.png)
+  ![App Screenshot](Screenshots\Q&A.png)
 </details>
 
 ### 2. Conversational Chatbot
@@ -87,7 +85,7 @@ streamlit run chatbot_con.py
 
 <details>
   <summary>📸 Screenshot</summary>
-  ![Chat Screenshot](Conversation_bot.png)
+  ![Chat Screenshot](Screenshots\Conversation_bot.png)
 </details>
 
 ---
